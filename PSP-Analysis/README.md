@@ -39,7 +39,8 @@ Recommendation: Implement geo-based routing logic to direct traffic to the best-
 
 Task 6 — Dashboard
 Interactive dashboard built in Excel.
-<img width="1872" height="1030" alt="image" src="https://github.com/user-attachments/assets/038063d0-fa1d-47a0-8040-86f199b0b71d" />
+<img width="2228" height="1147" alt="image" src="https://github.com/user-attachments/assets/23a7e1a3-b8df-4564-8a9b-49eda9aec9de" />
+
 
 
 Tools Used
