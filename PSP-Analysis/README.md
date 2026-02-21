@@ -32,14 +32,14 @@ Calculated success rate for each provider. Clear differences in conversion perfo
 ---
 
 ### Task 2 — Revenue & Fee Analysis by Provider
-Analysed total transaction volume, fees charged, and net revenue per provider (all in EUR). The analysis revealed that the most expensive provider in terms of fees does not deliver proportionally better conversion, making it a less cost-efficient choice.
+Analysed total transaction volume, fees charged, and net revenue per provider (all in EUR). Differences in fee structures were identified across providers — higher fees do not always translate proportionally into better conversion, making cost-efficiency an important factor when evaluating provider performance alongside net revenue contribution.
 
-**Recommendation:** Review usage of high-fee providers and consider shifting volume to providers with a better fee-to-performance ratio.
+**Recommendation:** Evaluate providers on a combination of net revenue, conversion rate and fee cost rather than any single metric alone.
 
 ---
 
 ### Task 3 — Performance by GEO
-Evaluated transaction volume, success rate, and average transaction value (in EUR) across 10 countries. Significant variation in conversion rates was found between markets, with some GEOs performing well above average and others showing weaker results.
+Evaluated transaction volume, success rate, and average transaction value (in EUR) across 10 countries. Most GEOs cluster around 50–60% success rate, however a small number of markets show consistently weaker performance worth investigating further.
 
 **Recommendation:** Investigate underperforming markets to determine whether poor results are driven by provider choice, payment method mix, or local market factors.
 
