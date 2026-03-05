@@ -101,7 +101,6 @@ PSP-Analysis/
 1. Download the `.xlsx` file
 2. Open in **Microsoft Excel 2019 or Microsoft 365** *(required — XLOOKUP and Power Query not supported in older versions)*
 3. Click **"Enable Content"** when prompted — this allows Power Query to run
-4. To refresh data after changing FX rates: **Data → Refresh All**
 
 > ⚠️ Not compatible with Google Sheets or LibreOffice
 
